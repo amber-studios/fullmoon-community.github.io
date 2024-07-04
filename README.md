@@ -1,4 +1,4 @@
-<h1 align="center">Fullmoon Website</h2>
+# Fullmoon website repository
 This repository holds the code for:
 
 - The main Fullmoon website
